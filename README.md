@@ -1,2 +1,2 @@
 # Data-Structure
-Some basic types of data structures and its operations
+Some basic data structures and their operations
